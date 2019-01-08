@@ -102,13 +102,13 @@ void draw() {
       textSize(width/30);
       text("Tip: To insert a audio, ",width/3.2,height/1.2);
       text("Name it: BGM.wav and put it under the data folder.",width/10,height/1.1);
-      f = 79;
+      f = 0;
       a = 0;
       b = 0;
       c = 0;
       d = 0;
       e = 0;
-      o = 8;
+      o = 5;
       
       if (z == true){
            textSize(width/18);
