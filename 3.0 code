@@ -108,6 +108,7 @@ void draw() {
       c = 0;
       d = 0;
       e = 0;
+      i = 0;
       o = 5;
       
       if (z == true){
